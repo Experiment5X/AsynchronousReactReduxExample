@@ -1,3 +1,7 @@
+# Barebones Asynchronous React-Redux Example
+
+This is a barebones example of using react-redux for asynchronous operations. It will fetch a list of cocktail recipes from a public API and store all of them in the redux store. The store also has a boolean flag to indicate if the recipes are loading.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
