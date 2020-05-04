@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import { getDrinks } from './redux/thunks';
 import { connect } from 'react-redux';
 
